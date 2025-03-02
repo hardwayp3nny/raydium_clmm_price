@@ -12,7 +12,7 @@ type BNType = typeof BN;
 type DecimalType = typeof Decimal;
 type PerformanceMonitorType = typeof PerformanceMonitor;
 
-const RPC_ENDPOINT = 'https://mainnet.helius-rpc.com/?api-key=177e861e-680b-4c8f-9e7c-a41c87c43968';
+const RPC_ENDPOINT = 'https://mainnet.helius-rpc.com/?api-key=your_rpc';
 const CLMM_PROGRAM_ID = new PublicKey('CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK');
 
 const KNOWN_TOKENS: {[key: string]: {symbol: string, name: string}} = {

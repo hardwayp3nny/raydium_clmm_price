@@ -1,0 +1,33 @@
+{
+  "poolId": "8oT91ooChsr7aHTHha9oJxKTYwUhZ75tjJ6bhtiggG5Y",
+  "programId": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK",
+  "tokenA": {
+    "mint": "So11111111111111111111111111111111111111112",
+    "symbol": "SOL",
+    "name": "Wrapped SOL",
+    "decimals": 9,
+    "vault": "8yzxUN3YK6CuC8PokQPfxahmYY387Uv3gjVgfE5hfxiR"
+  },
+  "tokenB": {
+    "mint": "2qEHjDLDLbuBgRYvsxhc5D6uDWAivNFZGan56P1tpump",
+    "symbol": "Token-2qEH",
+    "name": "Unknown Token (6 decimals)",
+    "decimals": 6,
+    "vault": "7uLUzK7ueeMDxUBAeQheqPBRH5P62EGkoH5hEiKkgG5q"
+  },
+  "price": {
+    "current": "598.96845364477123138",
+    "sqrtPriceX64": "14276498279242608640",
+    "tickCurrent": -5126
+  },
+  "startTime": "2024-11-02T17:03:06.000Z",
+  "performanceMetrics": {
+    "totalTime": 811.0192999999999,
+    "markers": {
+      "total": 810.9402,
+      "fetchPoolInfo": 807.6587,
+      "decodePoolInfo": 0.4652000000000953,
+      "fetchTokenBalances": 0.002199999999902502
+    }
+  }
+}
